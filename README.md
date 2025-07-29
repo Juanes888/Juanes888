@@ -1,55 +1,119 @@
 <div align="center">
-  <img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/Juanes888">
-    <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
-  </a>
-</div>
+<h3 align="center">
+  ¡Hola, soy Juan Esteban Zuluaga (Juanes888)!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-[![GitHub Followers](https://img.shields.io/github/followers/Juanes888?label=Follow&style=social)](https://github.com/Juanes888)
-[![GitHub Stars](https://img.shields.io/github/stars/Juanes888?style=social)](https://github.com/Juanes888)
+<p align="center">
+  <a href="https://github.com/Juanes888"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Apasionado%20por%20la%20tecnolog%C3%ADa;Siempre%20aprendiendo%20cosas%20nuevas;Desarrollando%20con%20React%20y%20C%23&font=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
-
-💻 Passionately building an **Arch Installer** project. 
+<p align="center">
+  <a href="https://github.com/Juanes888" align="center"><img align="center" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Juanes888.Juanes888"></a>
+</p>
 
 ---
 
-<div align="center">
-  <h1>Skills</h1>
-</div>
+- 👨‍💻 Como **Desarrollador de Software**, actualmente me encuentro en mi **práctica profesional** en **Crystal S.A.S.**, donde estoy fortaleciendo mis habilidades en **C#** y **React**.
+- 💬 Pregúntame sobre mi experiencia con **Desarrollo Web**.
+- 🌱 Actualmente estoy profundizando en el campo de **Desarrollo Frontend** y explorando nuevas tecnologías relacionadas con **C#** y **React**, así como el uso de **Arch Linux** y la personalización de **Dotfiles**.
+
+## 🛠 &nbsp;Tecnologías y Herramientas
+
+#### 🔧 Lenguajes de Programación
+
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🖥️ Frameworks
+
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+
+#### 📚 Bibliotecas
+
+![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+#### 🔧 Herramientas
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=yellow)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📊 Estadísticas de Perfil
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=html,css,js,py"/></td>
-      <td><img src="https://skillicons.dev/icons?i=bash,vscode,github"/></td>
-    </tr>
-  </table>
+  ![](https://github-readme-stats.vercel.app/api?username=Juanes888&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+  <br>
 </div>
 
-<br><br>
+### 💳 Resumen de Perfil de Github
 
 <div align="center">
-  <h1>Operating Systems</h1>
-  <img src="https://skillicons.dev/icons?i=windows"/>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juanes888&theme=github_dark)
 </div>
 
-<br><br>
+### ⏱ Estadísticas de Rachas
 
 <div align="center">
-  <h1>Contact</h1>
-  <a href="mailto:jzuluagagomez72@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://instagram.com/xir.rence"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="https://discord.com/users/729473858179956859"><img src="https://skillicons.dev/icons?i=discord"/></a>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juanes888&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 </div>
 
-<br><br>
+### 📈 Gráfico de Actividad
 
-<h2 align="center">About Me</h2>
-<p align="center">
-  Hi, I'm **Juan Esteban Zuluaga**, also known as **Juanes888**. I'm 21 years old and currently studying **Tecnología en Desarrollo de Software**. I'm passionate about technology, and I'm currently strengthening my skills in **C#** and **React** through my internship at **Crystal S.A.S**.
-</p>
+[![Gráfico de Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Juanes888&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 📊 Lenguaje más Usado
+
+<div align="center">
+  [![](https://github-readme-stats.vercel.app/api/top-langs?username=Juanes888&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+</div>
+
+### 🏆 Trofeos de Perfil
+
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Juanes888&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+---
+
+### 🔗 &nbsp;Contacto
+
+<div align="center">
+  <a href="mailto:jzuluagagomez72@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/xir.rence"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/users/729473858179956859"><img alt="Discord" src="https://img.shields.io/badge/Discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</div>
+
+<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
+
+---
+
 
