@@ -45,38 +45,20 @@
 
 ## 📊 Estadísticas de Perfil
 
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Juanes888&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-  <br>
-</div>
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Juanes888&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 
 ### 💳 Resumen de Perfil de Github
 
-<div align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juanes888&theme=github_dark)
-</div>
+![Resumen de Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juanes888&theme=github_dark)
 
 ### ⏱ Estadísticas de Rachas
 
-<div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juanes888&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juanes888&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 ### 📈 Gráfico de Actividad
 
 [![Gráfico de Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Juanes888&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📊 Lenguaje más Usado
-
-<div align="center">
-  [![](https://github-readme-stats.vercel.app/api/top-langs?username=Juanes888&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-</div>
-
-### 🏆 Trofeos de Perfil
-
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Juanes888&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
 ---
 
