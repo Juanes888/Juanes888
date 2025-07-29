@@ -108,11 +108,11 @@
 
 <div align="center">
   <a href="mailto:jzuluagagomez72@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/xir.rence"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.com/users/729473858179956859"><img alt="Discord" src="https://img.shields.io/badge/Discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/juanes8888"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/><img alt="Discord" src="https://img.shields.io/badge/Discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
+<h5 align="center">Juanes888 </h5>
 
 ---
 
